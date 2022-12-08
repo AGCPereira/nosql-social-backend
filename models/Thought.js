@@ -1,4 +1,4 @@
-onst { Schema, model, Types } = require('mongoose');
+const { Schema, model, Types } = require('mongoose');
 const formatDate = require('../utils/formatDate');
 
 // validators
