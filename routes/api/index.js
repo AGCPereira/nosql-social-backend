@@ -1,5 +1,6 @@
 const router = require('express').Router();
 
+//import routes from api folder
 const userRoutes = require('./user-routes');
 const thoughtRoutes = require('./thought-routes');
 
